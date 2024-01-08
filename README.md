@@ -1,8 +1,16 @@
-![banner](https://raw.githubusercontent.com/doanthanhdat2509/DD./1a05f1db59c723f2786d354d91ec635780430c11/robot.jpg)
-## Greetings! 🍌
+## Different Shades of Emotions in Coding
+<p align="center">
+  <img src="https://raw.githubusercontent.com/doanthanhdat2509/doanthanhdat2509/main/emotion_ami_01.gif" alt="Alt text" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/doanthanhdat2509/doanthanhdat2509/main/emotion_ami_02.gif" alt="Alt text" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/doanthanhdat2509/doanthanhdat2509/main/emotion_ami_03.gif" alt="Alt text" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/doanthanhdat2509/doanthanhdat2509/main/emotion_ami_04.gif" alt="Alt text" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/doanthanhdat2509/doanthanhdat2509/main/emotion_ami_05.gif" alt="Alt text" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/doanthanhdat2509/doanthanhdat2509/main/emotion_ami_06.gif" alt="Alt text" width="100" height="100">
+</p>
 
-### About me
-I'm a dedicated Front-end Developer, harnessing the power of technology by day ☼. When the sun sets, you'll find me navigating the crypto markets or dominating the mid-lane in DOTA2 ☾.
+### Hi, I'm DD, you can call me "THAT"
+A dedicated Front-end Developer, harnessing the power of technology by day &nbsp;☼.<br/>
+When the sun sets, you'll find me navigating the crypto markets or dominating the mid-lane in DOTA2 &nbsp;☾.
 
 ### Let's Connect
 Feel free to reach out to me at [dat.cool](https://dat.cool/)
