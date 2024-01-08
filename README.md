@@ -1,4 +1,4 @@
-## Greetings! 🍌 🥑 🍑 🥐 🐶 🐈
+## Greetings! 🍌
 
 ### About me
 I'm a dedicated Front-end Developer, harnessing the power of technology by day ☼. When the sun sets, you'll find me navigating the crypto markets or dominating the mid-lane in DOTA2 ☾.
