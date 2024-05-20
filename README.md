@@ -28,6 +28,6 @@ Feel free to reach out to me at [dat.cool](https://dat.cool/)
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vue,react,angular,jquery,bootstrap,tailwind,wordpress)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=netlify,digitalocean)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,nextjs,angular,jquery,bootstrap,tailwind,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=netlify,digitalocean,vercel)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vite,webpack,gitlab,github,ps,figma,firebase)](https://skillicons.dev)
