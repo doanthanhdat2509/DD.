@@ -17,8 +17,8 @@ Feel free to reach out to me at [dat.cool](https://dat.cool/)
 
 ### Skill Set
 - Languages: `HTML`, `CSS`, `JavaScript`
-- Frameworks & Libraries: `Vue.js`, `React.js`, `Angular`, `jQuery`, `Bootstrap`, `Tailwind CSS`, `WordPress`
-- DevOps: `Netlify`, `DigitalOcean`
+- Frameworks & Libraries: `Vue.js`, `React.js`, `Next.js`, `Angular`, `jQuery`, `Bootstrap`, `Tailwind CSS`, `WordPress`
+- DevOps: `Netlify`, `DigitalOcean`, `Vercel`
 - Tools: `Vite`, `Git (GitHub, GitLab)`, `Slack`, `JIRA`, `Photoshop`, `Figma`, `firebase`
 
 ### Additional Skills
